@@ -25,13 +25,8 @@ public class Ejemplo07 {
                 System.out.printf("%d elevado a la potencia %d es igual a"
                         + " %d\n", num1, num2, 
                         obtenerPotencia(valores[i], potencias[j]));
-            }
-            
-            
+            }   
         }
-        
-        
-        
     }
 
     public static int obtenerPotencia(int base, int exponente) {
